@@ -96,7 +96,7 @@ logo = """
 
 """
 CorrectUsername = "JAMESWORLD"
-CorrectPassword = "707"
+CorrectPassword = "404"
 
 loop = 'true'
 while (loop == 'true'):
